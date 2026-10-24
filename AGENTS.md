@@ -8,3 +8,4 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+- Business data (phone, WhatsApp, address, hours) lives in src/config/site.ts; empty fields render as 'A definir' so nothing is invented.
